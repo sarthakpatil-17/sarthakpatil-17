@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Abhiraj Singh
 Third-year undergrad crafting full-stack apps with Java & curiosity | Always exploring the next big thing in tech
 
 
