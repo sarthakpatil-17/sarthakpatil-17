@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abhiraj Singh
+# Hi 👋, I'm Sarthak Patil 
 Third-year undergrad crafting full-stack apps with Java & curiosity | Always exploring the next big thing in tech
 
 
